@@ -1,0 +1,33 @@
+Commits e PRs ligados a issues
+
+Closes #42
+Fix #17
+
+
+git clone nome_do_repositório
+git log --oneline --grep="#"
+ou
+git --no-pager log --oneline --grep="#"
+
+Nomes de branches seguindo um padrão de tarefa
+
+feature/123-login
+task/45-ajuste-menu
+
+git branch -a
+
+git log --all --oneline | grep -i "progress\|done\|review"
+
+
+Aba Projects: se houver um quadro com colunas como To do, In progress e Done, e a visualização em board, é o indício mais forte. Use o gh CLI para listar:
+
+
+gh project list --owner NOME_DA_ORG
+
+
+Labels de fluxo: como in progress, blocked, ready, wip, ou um label kanban
+
+
+Templates e arquivos de configuração: pastas .github/ISSUE_TEMPLATE, .github/workflows com automações de quadro, ou documentação no README e CONTRIBUTING.md mencionando Kanban.
+
+Histórico de issues e PRs: procure por issues fechadas automaticamente quando o PR é mesclado, o que indica integração entre código e quadro.
