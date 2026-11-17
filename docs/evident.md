@@ -31,6 +31,7 @@ As metas usam o Kanban explicitamente, com as seguintes etapas:
 
 **Em análise → Futuro → A fazer → Em andamento → Completo**
 
+![Description of the image](img/road_map.png)
 ![Description of the image](img/milestones.png)
 
 ## 4. Fechamento de issues
