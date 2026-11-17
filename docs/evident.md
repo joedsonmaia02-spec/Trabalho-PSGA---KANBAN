@@ -31,7 +31,8 @@ As metas usam o Kanban explicitamente, com as seguintes etapas:
 
 **Em análise → Futuro → A fazer → Em andamento → Completo**
 
-![Description of the image](img/milestones.png)
+![Description of the image](img/road_map.png)
+
 
 ## 4. Fechamento de issues
 
@@ -41,7 +42,7 @@ As issues são fechadas por meio de merges que concluem a atividade corresponden
 
 ## 5. Referências a issues
 
-Os PRs fazem referência diretamente às issues correspondentes e são fehcadas após o merge do branch colaborativo.
+Os PRs fazem referência diretamente às issues correspondentes e são fehcadas após o merge do branch colaborativo. 
 
 ![Description of the image](img/references.png)
 
@@ -50,3 +51,9 @@ Os PRs fazem referência diretamente às issues correspondentes e são fehcadas 
 O log registra etapas do Kanban, como `production`.
 
 ![Description of the image](img/production.png)
+
+## 7. As milestones são atribuidas aos issues de expansão 
+
+As métricas de conclusão são medidas e agrupadas, o que faz parte da metodologia visual do Kanban
+
+![Description of the image](img/milestones.png)
