@@ -67,4 +67,4 @@
 
 ## Referências 
 
-*[1][Usage of Kanban in Software Companies: An Empirical Study on Motivation, Benefits and Challenges](art_kanban.pdf)*
+*[1][Usage of Kanban in Software Companies: An Empirical Study on Motivation, Benefits and Challenges]([art_kanban.pdf](https://www.researchgate.net/publication/267515017_Usage_of_Kanban_in_Software_Companies_An_empirical_study_on_motivation_benefits_and_challenges))*
