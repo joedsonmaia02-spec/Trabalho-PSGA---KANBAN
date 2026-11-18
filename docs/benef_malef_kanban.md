@@ -67,6 +67,4 @@
 
 ## Referências 
 
-*[1][On the benefits and challenges of using
-kanban in software engineering: a
-structured synthesis study](art_kanban.pdf)*
+*[1][Usage of Kanban in Software Companies: An Empirical Study on Motivation, Benefits and Challenges](art_kanban.pdf)*
